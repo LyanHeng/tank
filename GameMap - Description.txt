@@ -1,0 +1,14 @@
+﻿level
+number of blocks for scoreBoard & sidewall
+i    - scoreBoard 
+j
+i
+j
+...
+number of blocks for fortwall
+i
+j
+i
+j
+...
+
